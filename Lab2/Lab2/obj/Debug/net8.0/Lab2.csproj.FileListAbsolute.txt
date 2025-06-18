@@ -1,0 +1,14 @@
+/Users/zaimod/Work/Patterns/Lab2/Lab2/bin/Debug/net8.0/Lab2
+/Users/zaimod/Work/Patterns/Lab2/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/Users/zaimod/Work/Patterns/Lab2/Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/Users/zaimod/Work/Patterns/Lab2/Lab2/bin/Debug/net8.0/Lab2.dll
+/Users/zaimod/Work/Patterns/Lab2/Lab2/bin/Debug/net8.0/Lab2.pdb
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/Lab2.dll
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/Lab2.pdb
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/Users/zaimod/Work/Patterns/Lab2/Lab2/obj/Debug/net8.0/ref/Lab2.dll
